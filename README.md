@@ -1,1 +1,2 @@
 # Code-QR-Generator
+# CodeQRGenerator
